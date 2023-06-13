@@ -1,2 +1,2 @@
 #!/bin/bash
-S=$(whoami) && echo "hello $S"
+echo hello $(whoami)
