@@ -41,5 +41,5 @@ frontend www
 
 backend www-backend
         balance roundrobin
-        server 421227-web-01     100.26.235.246 check
-        server 421227-web-02     54.236.16.15 check
+        server 421227-web-01     100.25.160.165 check
+        server 421227-web-02     18.234.193.226 check
